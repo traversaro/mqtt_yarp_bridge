@@ -20,7 +20,7 @@ sudo -H pip install mqtt_wrapper
 
 and [YARP Python](http://wiki.icub.org/wiki/YARP).
 
-Furthermore an MQTT Broker is needed, [Mosquitto](https://mosquitto.org/documentation/) is the suggested one.
+Furthermore an MQTT Broker is needed, [Mosquitto](https://mosquitto.org/) is the suggested one.
 
 ```bash
 sudo apt-get install mosquitto mosquitto-clients
